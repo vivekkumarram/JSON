@@ -1,0 +1,2 @@
+To create linux machine using terraform/arm template using SSH keys, we need to first create ssh-keys from cloud shell post that we can call that ssh key using public key in our 
+template.
